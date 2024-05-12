@@ -82,43 +82,53 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ## Output:
 ORIGINAL DATA
 
-![](<Screenshot 2024-03-21 092010.png>)
+![Screenshot 2024-03-21 092010](https://github.com/sujithrabkn/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119477857/f7020029-e5bd-40d7-bf9a-2e6c4a6cc526)
+
 
 AFTER REMOVING
 
-![](<Screenshot 2024-03-21 092101.png>)
+![Screenshot 2024-03-21 092101](https://github.com/sujithrabkn/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119477857/359fcd65-9fba-46d5-8091-d19db6852432)
+
 
 NULL DATA
 
-![](<Screenshot 2024-03-21 092111.png>)
+![Screenshot 2024-03-21 092111](https://github.com/sujithrabkn/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119477857/d83f5dd4-0e84-41ca-a104-ac31e13f89cd)
+
 
 LABEL ENCODER
 
-![](<Screenshot 2024-03-21 092144.png>)
+![Screenshot 2024-03-21 092144](https://github.com/sujithrabkn/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119477857/f18f9a1d-2a46-4897-b4eb-8bb2f02c95b0)
+
 
 X VALUES
 
-![](<Screenshot 2024-03-21 092153.png>)
+![Screenshot 2024-03-21 092153](https://github.com/sujithrabkn/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119477857/60c4563a-95d2-4837-b07c-59fec2b41e13)
+
 
 Y VALUES
 
-![](<Screenshot 2024-03-21 092204.png>)
+![Screenshot 2024-03-21 092204](https://github.com/sujithrabkn/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119477857/6a7aceb1-973f-4d79-a277-d6e8564f35a6)
+
 
 Y_Prediction
 
-![](<Screenshot 2024-03-21 092215.png>)
+![Screenshot 2024-03-21 092215](https://github.com/sujithrabkn/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119477857/2c06fe35-06b9-4d57-bda9-78a8f2153d65)
+
 
 ACCURACY
 
-![](<Screenshot 2024-03-21 092225.png>)
+![Screenshot 2024-03-21 092225](https://github.com/sujithrabkn/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119477857/87d97918-98c3-4ada-9a88-5ab4bc28a632)
+
 
 CONFUSION MATRIX
 
-![](<Screenshot 2024-03-21 092246.png>)
+![Screenshot 2024-03-21 092246](https://github.com/sujithrabkn/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119477857/2daf7b84-2da6-4ab5-b394-1d39493079be)
+
 
 CLASSIFICATION
 
-![](<Screenshot 2024-03-21 092257.png>)
+![Screenshot 2024-03-21 092257](https://github.com/sujithrabkn/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119477857/a7a15675-3a7c-4ba2-b4d3-7b81dfb525df)
+
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
